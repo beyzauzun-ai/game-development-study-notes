@@ -14,18 +14,6 @@ From learning notes to professional technical documentation.
 
 <p align="center">
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-0E1128?logo=unrealengine)
-![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?logo=markdown)
-![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-</p>
-
-<p align="center">
-
 <a href="#-about">About</a> •
 <a href="#-repository-structure">Repository Structure</a> •
 <a href="#-learning-roadmap">Learning Roadmap</a> •
