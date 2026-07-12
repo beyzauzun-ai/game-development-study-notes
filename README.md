@@ -1,4 +1,5 @@
 # game-development-notes
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-black)
 
 ![Unity](https://img.shields.io/badge/Unity-6-white)
@@ -8,7 +9,10 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
+
+
 Technical documentation and study notes covering Unreal Engine, Unity, C#, Blueprints, and Generative AI for Game Development.
+
 # 🎮 Game Development Study Notes
 
 > A structured collection of technical study notes covering Unreal Engine, Unity, C#, Blueprints, and Generative AI for Game Development.
