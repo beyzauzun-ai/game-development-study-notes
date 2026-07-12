@@ -5,30 +5,42 @@
 <h1 align="center">🎮 Game Development Handbook</h1>
 
 <p align="center">
-  A comprehensive collection of technical documentation for <strong>Unreal Engine</strong>, <strong>Unity</strong>, and <strong>AI-powered game development workflows</strong>.
+A comprehensive collection of technical documentation for <strong>Unreal Engine</strong>, <strong>Unity</strong>, and <strong>AI-powered game development workflows</strong>.
 </p>
 
 <p align="center">
 
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-0E1128?logo=unrealengine)
+![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?logo=markdown)
+![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+</p>
+
 <p align="center">
 
-<a href="#about">About</a> •
-<a href="#repository-structure">Repository Structure</a> •
-<a href="#learning-roadmap">Learning Roadmap</a> •
-<a href="#documentation-index">Documentation</a> •
-<a href="#technologies">Technologies</a> •
-<a href="#project-goals">Goals</a>
-
-</p> 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine)
-![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity)
-![C%23](https://img.shields.io/badge/C%23-Language-239120?logo=csharp)
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?logo=markdown)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
+<a href="#-about">About</a> •
+<a href="#-repository-structure">Repository Structure</a> •
+<a href="#-learning-roadmap">Learning Roadmap</a> •
+<a href="#-documentation-index">Documentation</a> •
+<a href="#-technologies">Technologies</a> •
+<a href="#-project-goals">Goals</a>
 
 </p>
 
 ---
+
+> **Highlights**
+>
+> - 📚 24 Technical Documents
+> - 🎮 Unreal Engine & Unity
+> - 🤖 AI-Powered Game Development
+> - 💼 Interview Tips
+> - 🛠 Practical Mini Projects
+> - ✨ Best Practices
 
 ## 📖 About
 
@@ -42,6 +54,17 @@ Topics include:
 - 📚 Practical Examples
 - 💼 Interview Tips
 - 🚀 Mini Projects
+
+---
+
+## 📊 Project Statistics
+
+| Category | Documents |
+|----------|----------:|
+| Unreal Engine | 8 |
+| Unity | 9 |
+| AI Tools | 7 |
+| **Total** | **24** |
 
 
 ## 📂 Repository Structure
