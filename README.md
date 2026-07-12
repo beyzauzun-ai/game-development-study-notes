@@ -232,6 +232,13 @@ This project is licensed under the MIT License.
 
 ---
 
+## 📬 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/beyza-uzun-1520672b5/
+- 💻 GitHub: https://github.com/beyzauzun-ai
+
+---
+
 <p align="center">
 Created with ❤️ by <strong>Beyza Uzun</strong>
 
