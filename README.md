@@ -186,8 +186,7 @@ This project aims to:
 - Document Unreal Engine, Unity, and AI workflows.
 - Share practical examples and best practices.
 
-
-  ## 🤝 Contributing
+## 🤝 Contributing
 
 Suggestions and improvements are always welcome.
 
