@@ -236,7 +236,7 @@ This project is licensed under the MIT License.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/beyza-uzun-1520672b5/
 - 💻 GitHub: https://github.com/beyzauzun-ai
-
+- 📧 Email: byzuzn09@gmail.com
 ---
 
 <p align="center">
