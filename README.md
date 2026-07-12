@@ -5,7 +5,11 @@
 <h1 align="center">🎮 Game Development Handbook</h1>
 
 <p align="center">
-A comprehensive collection of technical documentation for <strong>Unreal Engine</strong>, <strong>Unity</strong>, and <strong>AI-powered game development workflows</strong>.
+<strong>Technical Documentation for Unreal Engine, Unity & AI-Powered Game Development</strong>
+</p>
+
+<p align="center">
+From learning notes to professional technical documentation.
 </p>
 
 <p align="center">
@@ -33,27 +37,24 @@ A comprehensive collection of technical documentation for <strong>Unreal Engine<
 
 ---
 
-> **Highlights**
+> ## ✨ Highlights
 >
 > - 📚 24 Technical Documents
-> - 🎮 Unreal Engine & Unity
-> - 🤖 AI-Powered Game Development
+> - 🎮 Unreal Engine Documentation
+> - 🧩 Unity Documentation
+> - 🤖 AI Tools for Game Development
 > - 💼 Interview Tips
-> - 🛠 Practical Mini Projects
-> - ✨ Best Practices
+> - 🛠️ Hands-on Mini Projects
+> - 📖 Best Practices & Learning Roadmaps
+> - 🚀 Continuously Updated
 
 ## 📖 About
 
-This repository contains structured learning notes, technical documentation, practical examples, and best practices for modern game development.
+This repository is a comprehensive collection of technical documentation created throughout my game development learning journey.
 
-Topics include:
+It covers Unreal Engine, Unity, C# scripting, Blueprints, and AI-powered development workflows through structured notes, practical examples, interview tips, and mini projects.
 
-- 🎮 Unreal Engine
-- 🧩 Unity
-- 🤖 AI Tools for Game Development
-- 📚 Practical Examples
-- 💼 Interview Tips
-- 🚀 Mini Projects
+The goal of this project is not only to document what I learn, but also to create a high-quality knowledge base that can help other developers explore modern game development technologies.
 
 ---
 
@@ -61,10 +62,10 @@ Topics include:
 
 | Category | Documents |
 |----------|----------:|
-| Unreal Engine | 8 |
-| Unity | 9 |
-| AI Tools | 7 |
-| **Total** | **24** |
+| 🎮 Unreal Engine | 8 |
+| 🧩 Unity | 9 |
+| 🤖 AI Tools | 7 |
+| **📚 Total** | **24** |
 
 
 ## 📂 Repository Structure
