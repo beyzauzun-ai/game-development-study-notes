@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-From learning notes to professional technical documentation.
+<em>From learning notes to professional technical documentation.</em>
 </p>
 
 <p align="center">
